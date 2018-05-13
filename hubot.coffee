@@ -1,5 +1,5 @@
 module.exports = (robot) ->
-  robot.hear /pull request/i, (res) ->
+  robot.hear /pull request oepenwd test/i, (res) ->
     res.send "Badgers? BADGERS? WE DON'T NEED NO STINKIN BADGERS"
 
   robot.respond /open the pod bay doors/i, (res) ->
