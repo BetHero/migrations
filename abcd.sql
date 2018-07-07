@@ -1,3 +1,3 @@
 select * from emloyees;
 
-select * from;
+select * from users;
