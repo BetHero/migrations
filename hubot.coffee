@@ -8,3 +8,6 @@ module.exports = (robot) ->
 
   robot.hear /I like cake/i, (res) ->
     res.emote "makes a freshly baked pie"
+
+
+Welcome
