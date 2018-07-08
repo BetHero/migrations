@@ -1,4 +1,6 @@
-select * from emloyees;
+select * from employees;
 
 select * from users;
-;
+
+
+select ;
