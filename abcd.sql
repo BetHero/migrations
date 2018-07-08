@@ -3,4 +3,4 @@ select * from employees;
 select * from users;
 
 
-select ;
+select * from employee2 ;
